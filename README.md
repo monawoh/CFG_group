@@ -5,13 +5,25 @@ import pandas as pd
 import requests
 import json
 
+The first part pulls data from the API. The required data is then accessed using dictionary methods, 
+A new data frame is populated using these extracted values.
+
+The difference between total count for gender for UK overall is calculated and stored.
+The data is checked for seasonality and stationarity to prepare for modelling.
+ARIMA model is used to train and test the data to produce a forecast for gender count difference for the UK.
+
+Trends are plotted to show total count for gender in technology by region and by year (2016-2021).
+Bar charts are plotted to show differences between regions and years.
+
+Choripleth mapping is used to show the difference between genders and regions for the UK for 2021.
+
 2. Occupation_Gender_Cleaned_Final (1)
 import pandas as pd
 import numpy as np
 import datetime
 import random
 
-3. 
+3. Occupation_gender_analysis
 
 Project summary:
 
