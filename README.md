@@ -1,4 +1,4 @@
-Order of code
+Order of code: our project is didvdied into 3 notebooks. They are didvided according to the area of intereste (1. Overall count of males and females in the tech industry in the UK; 2. A break down of males and females across different occupations within the technology industry in the UK (data cleaning); 3. A break down of males and females across different occupations within the technology industry in the UK (data analysis). This was also in part due to the size of each file.
 
 1. API_data_extraction_and_analysis
 import pandas as pd
@@ -23,7 +23,11 @@ import numpy as np
 import datetime
 import random
 
+This notebook cleans the csv file data for occupations within the technology industry, extracting the data required to answer our project aims and objectives.
+
 3. Occupation_gender_analysis
+
+This Notebook uses the cleaned_csv files to analyse occupations within the technology industry within the UK.
 
 Project summary:
 
