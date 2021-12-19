@@ -15,7 +15,7 @@ ARIMA model is used to train and test the data to produce a forecast for gender 
 Trends are plotted to show total count for gender in technology by region and by year (2016-2021).
 Bar charts are plotted to show differences between regions and years.
 
-Choripleth mapping is used to show the difference between genders and regions for the UK for 2021.
+Choropleth mapping is used to show the difference between genders and regions for the UK for 2021.
 
 2. Occupation_Gender_Cleaned_Final (1)
 import pandas as pd
