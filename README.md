@@ -1,16 +1,17 @@
-# Import packages
+Order of code
 
-API_data_extraction_and_analysis
+1. API_data_extraction_and_analysis
 import pandas as pd
 import requests
 import json
 
-Occupation_Gender_Cleaned_Final (1)
+2. Occupation_Gender_Cleaned_Final (1)
 import pandas as pd
 import numpy as np
 import datetime
 import random
 
+3. 
 
 Project summary:
 
